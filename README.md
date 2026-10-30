@@ -1,10 +1,12 @@
 ### 嗨，我是Wilson 👋
 
-英文老師，教學16年；現在專注研究**怎麼用AI讓英文真的派上用場**。
+**英語教育者 × AI應用規劃師 × 國際貿易創業者**
+
+16年英語教學經驗，現在把AI帶進教室，也帶進自己的跨國生意——專注研究**怎麼用AI讓英文真的派上用場**。
 
 **交大傳播碩士**｜新加坡交換學生｜加拿大遊學｜TOEIC金色證書｜經濟部iPAS AI應用規劃師
 
-I'm an English teacher of 16 years from Taiwan, building open-source tools at the intersection of English learning and AI.
+English educator, AI solutions planner, and founder of my own trading business in Taiwan. With 16 years of teaching behind me, I build open-source tools where English learning meets AI.
 
 ---
 
