@@ -2,7 +2,7 @@
 
 英文老師，教學16年；現在專注研究**怎麼用AI讓英文真的派上用場**。
 
-淡江英文系、交大傳播碩士｜TOEIC金色證書｜經濟部iPAS AI應用規劃師
+**交大傳播碩士**｜新加坡交換學生｜加拿大遊學｜TOEIC金色證書｜經濟部iPAS AI應用規劃師
 
 I'm an English teacher of 16 years from Taiwan, building open-source tools at the intersection of English learning and AI.
 
