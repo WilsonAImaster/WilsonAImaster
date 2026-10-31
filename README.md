@@ -6,7 +6,7 @@
 
 **交大傳播碩士**｜新加坡交換學生｜加拿大遊學｜TOEIC金色證書｜經濟部iPAS AI應用規劃師
 
-English educator, AI solutions planner, and founder of my own trading business in Taiwan. With 16 years of teaching behind me, I build open-source tools where English learning meets AI.
+English educator, AI solutions planner, and founder of my own trading business in Taiwan. With 17 years of teaching behind me, I build open-source tools where English learning meets AI.
 
 ---
 
